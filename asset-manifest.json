@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.f0c2b29d.js",
+    "main.js": "/static/js/main.feafc66b.js",
     "static/js/787.5c0b2d12.chunk.js": "/static/js/787.5c0b2d12.chunk.js",
-    "static/media/CV_Bhargav_Vankayalapati.pdf": "/static/media/CV_Bhargav_Vankayalapati.53f0ffc4544f156390f7.pdf",
+    "static/media/CV_Bhargav_Vankayalapati.pdf": "/static/media/CV_Bhargav_Vankayalapati.4186ad1ab2e19acf75c4.pdf",
     "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
     "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -17,11 +17,11 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.f0c2b29d.js.map": "/static/js/main.f0c2b29d.js.map",
+    "main.feafc66b.js.map": "/static/js/main.feafc66b.js.map",
     "787.5c0b2d12.chunk.js.map": "/static/js/787.5c0b2d12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29bc8131.css",
-    "static/js/main.f0c2b29d.js"
+    "static/js/main.feafc66b.js"
   ]
 }
