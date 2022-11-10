@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.31be301a.js",
+    "main.js": "/static/js/main.12688db0.js",
     "static/js/787.f283bd98.chunk.js": "/static/js/787.f283bd98.chunk.js",
-    "static/media/CV_Bhargav_Vankayalapati.pdf": "/static/media/CV_Bhargav_Vankayalapati.4186ad1ab2e19acf75c4.pdf",
+    "static/media/CV_Bhargav_Vankayalapati.pdf": "/static/media/CV_Bhargav_Vankayalapati.43913a8b17292a18b9c2.pdf",
     "static/media/F1Analysis.PNG": "/static/media/F1Analysis.e1fb73f8f0bb7499f73e.PNG",
     "static/media/pallet.PNG": "/static/media/pallet.ac7c55567672bf3c85b8.PNG",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
@@ -15,11 +15,11 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.31be301a.js.map": "/static/js/main.31be301a.js.map",
+    "main.12688db0.js.map": "/static/js/main.12688db0.js.map",
     "787.f283bd98.chunk.js.map": "/static/js/787.f283bd98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29bc8131.css",
-    "static/js/main.31be301a.js"
+    "static/js/main.12688db0.js"
   ]
 }
